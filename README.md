@@ -26,7 +26,7 @@ python -m streamlit run streamlit_app.py
 On Windows PowerShell:
 
 ```powershell
-.venv\Scripts\Activate.ps1
+.venv\\Scripts\\Activate.ps1
 python -m pip install -r requirements.txt
 python -m streamlit run streamlit_app.py
 ```
@@ -35,7 +35,7 @@ python -m streamlit run streamlit_app.py
 
 Create a new Streamlit app with:
 
-- repository: `pkot98121/AIinvestment_workbench`
+- repository: `prateek98121/AIinvestment_workbench`
 - branch: `main` after this change is merged
 - entry point: `streamlit_app.py`
 
