@@ -26,7 +26,7 @@ python -m streamlit run streamlit_app.py
 On Windows PowerShell:
 
 ```powershell
-.venv\\Scripts\\Activate.ps1
+.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 python -m streamlit run streamlit_app.py
 ```
